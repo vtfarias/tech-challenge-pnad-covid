@@ -159,8 +159,8 @@ Alguns cuidados foram adotados na interpretação dos resultados:
 ### 1. Clonar o repositório
 
 ```bash
-git clone URL_DO_REPOSITORIO
-cd NOME_DA_PASTA
+git clone https://github.com/vtfarias/tech-challenge-pnad-covid.git
+cd tech-challenge-pnad-covid
 ```
 
 ### 2. Criar ambiente virtual
