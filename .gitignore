@@ -1,0 +1,35 @@
+# Ambiente virtual
+venv/
+.venv/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.cache/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Variáveis de ambiente
+.env
+.env.*
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# Logs e temporários
+*.log
+_tmp*/
+tmp/
+
+# Backups/intermediários do desenvolvimento
+app_backup_*.py
+app_layout_*.py
+app_codex_*.py
+
+# Ferramentas de agente/Codex
+.agents/
+AGENTS.md

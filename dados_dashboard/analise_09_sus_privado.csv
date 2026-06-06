@@ -1,0 +1,11 @@
+"v1013","mes_nome","local_atendimento","plano_saude","n_amostra","populacao_estimada","pct_alguma_comorbidade","pct_internado_entre_atendidos","pct_entubado_entre_internados"
+"10","Outubro","UPA/SUS","Sim","108","79143.0","24.618","7.3314","43.2193"
+"11","Novembro","Hospital SUS",,"3","5098.0",,,
+"10","Outubro","UPA/SUS","Nao","700","441593.0","37.8289","6.8763","33.1926"
+"9","Setembro","UPA/SUS","Nao","637","375214.0","41.4411","7.0385","13.6258"
+"11","Novembro","Hospital SUS","Nao","552","299859.0","41.8693","15.7817","18.5894"
+"11","Novembro","Hospital SUS","Sim","133","72910.0","38.7799","8.6572","11.4933"
+"9","Setembro","Hospital SUS","Nao","631","332572.0","41.0928","15.7558","28.0983"
+"9","Setembro","Hospital SUS","Sim","118","71265.0","36.7982","11.2207","31.7383"
+"10","Outubro","Hospital SUS","Sim","129","79339.0","39.9042","17.9154","5.3268"
+"10","Outubro","Hospital SUS","Nao","558","288696.0","37.8078","18.1046","24.7227"

@@ -1,0 +1,11 @@
+"v1013","mes_nome","categoria_ocupacional","formalidade_trabalho","grau_isolamento","n_amostra","populacao_estimada","pct_trabalhou","pct_home_office","pct_internado_entre_atendidos"
+"11","Novembro",,"Nao aplicavel/Sem informacao","So saiu por saude","39456","2.1880644E7","0.0",,"11.9013"
+"11","Novembro","Familiar nao remunerado","Nao aplicavel/Sem informacao","So saiu por saude","149","44993.0","89.1821","100.0","0.0"
+"11","Novembro","Fora do mercado","Nao aplicavel/Sem informacao","So saiu por saude","411","154753.0","97.1092",,"71.5732"
+"10","Outubro","Setor privado","Informal","Pouca restricao","11086","6501446.0","98.158","48.8328","5.6827"
+"11","Novembro","Fora do mercado","Nao aplicavel/Sem informacao","Ficou em casa","2168","842037.0","97.4841",,"8.1276"
+"10","Outubro","Conta propria","Nao aplicavel/Sem informacao","Ficou em casa","9130","4460294.0","91.1457","68.0233","9.3254"
+"10","Outubro","Domestico","Formal",,"5","2581.0","100.0",,
+"11","Novembro","Domestico","Formal","Pouca restricao","1607","931408.0","97.754",,"0.0"
+"11","Novembro","Setor publico","Informal","Pouca restricao","3036","1488599.0","95.2461","85.7151","0.0"
+"10","Outubro","Setor publico","Informal","So saiu por saude","94","51451.0","67.2758","86.1227","0.0"
